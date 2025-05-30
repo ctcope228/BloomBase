@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+    --color-dusty: #FF9A9A;
+    --color-green: #5F8B4C;
+    --color-cream: #FFDDAB;
+    --color-brown: #945034;
+}
